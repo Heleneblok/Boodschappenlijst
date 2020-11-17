@@ -37,7 +37,7 @@ def mainMenu():
         else:
             print("You did not make a valid selection.")
 
-shopping_list = ["apples", "bananas", "carrots", "potatoes", "soup"] # Add a few items to the shopping list
+shopping_list = ["apples", "bananas", "carrots", "potatoes", "bread"] # Add a few items to the shopping list
 
 
 # Displays all items on the shopping list
